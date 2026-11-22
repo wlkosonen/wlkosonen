@@ -14,7 +14,7 @@ correction rather than hidden. ("Lati" in the film credits is me.)
 - **[Prepper](https://github.com/wlkosonen/prepper)**: an offline-first mobile app for an emergency food supply.
   Barcode scanning, expiry tracking, and a household nutrition "survival window". Expo, React Native, TypeScript,
   SQLite.
-- **[Aether Core](https://github.com/wlkosonen/ISK02)**: an AI story workshop for the ISEKAI ZERO platform. It walks a
+- **[Aether Core](https://github.com/wlkosonen/aether-core)**: an AI story workshop for the ISEKAI ZERO platform. It walks a
   writer through a story package with an AI co-author (Gemini, Claude, Mistral, OpenRouter or a local Ollama model).
   React, Express, TypeScript, Docker.
 
