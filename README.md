@@ -1,6 +1,6 @@
 # Wladyslaw Kosonen
 
-I'm an injection moulding mechanic at Okartek Oy in Finland. Outside work I build software and make films, working
+I'm an injection molding technician at Okartek Oy in Finland. Outside work I build software and make films, working
 with AI agents, mostly Claude in Claude Code. I set the direction, make the calls and check the results, and the agents
 do much of the writing and coding. Every decision is written down with its reason, and mistakes are recorded with the
 correction rather than hidden. ("Lati" in the film credits is me.)
